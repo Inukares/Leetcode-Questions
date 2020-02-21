@@ -4,7 +4,7 @@
 
 I will keep updating this repository with progress of my work as part of documenting the journey that software development is
 
-- [ x ] 	Maximum Depth of Binary Tree - 15.02.2020
-- [ x ] 	Same Tree - 16.02.2020
-- [ x ] 	Binary Tree Level Order Traversal - 18.02.2020
-- [ x ] 	Kth Smallest Element in a BST - 20.02.2020
+- [x] 	Maximum Depth of Binary Tree - 15.02.2020
+- [x] 	Same Tree - 16.02.2020
+- [x] 	Binary Tree Level Order Traversal - 18.02.2020
+- [x] 	Kth Smallest Element in a BST - 20.02.2020
