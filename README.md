@@ -18,3 +18,5 @@ I will keep updating this repository with progress of my work as part of documen
 - [x]   Counting Elements - 07.04.2020
 - [x]   Middle of the linked list - 08.04.2020
 - [x]   Backspace string compare - 09.04.2020
+- [x]   Min stack - 10.04.2020
+- [x]   Diameter of Binary tree - 11.04.2020
